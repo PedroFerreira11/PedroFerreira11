@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Ferreira</h1>
+<h1 align="center">Hello 👋, I'm Pedro Ferreira</h1>
 <h3 align="center">I am a software engineer with a degree from Madeira University. I am passionate about developing innovative applications and thrive on solving challenging problems.</h3>
 
 <h3 align="left">Connect with me:</h3>
